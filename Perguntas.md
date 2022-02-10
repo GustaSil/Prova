@@ -4,3 +4,7 @@ e salvar
 
 Questão 2 - Oque e commit ?
 R:E o empacotamento de de um grupo de alterações 
+
+Questão 3 - Oque e um repositorio ?
+R: Repositorio e onde a pasta sera guardada podendo ele ser remoto
+ou local
