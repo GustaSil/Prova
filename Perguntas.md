@@ -11,3 +11,8 @@ ou local
 
 Questão 4 - Oque e merge ?
 R: E a junção de duas branch 
+
+Questão 5 - Oque e pull ?
+R: E quando se traz um repositorio que foi enviado da rede local pra,
+remota devolta pra rede local so que com correções ortograficas
+
