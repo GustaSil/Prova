@@ -16,3 +16,5 @@ Questão 5 - Oque e pull ?
 R: E quando se traz um repositorio que foi enviado da rede local pra,
 remota devolta pra rede local so que com correções ortograficas
 
+Questão 6 - Oque e branch ? 
+R: E a ramificação de um repositorio 
