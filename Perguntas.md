@@ -8,3 +8,6 @@ R:E o empacotamento de de um grupo de alterações
 Questão 3 - Oque e um repositorio ?
 R: Repositorio e onde a pasta sera guardada podendo ele ser remoto
 ou local
+
+Questão 4 - Oque e merge ?
+R: E a junção de duas branch 
